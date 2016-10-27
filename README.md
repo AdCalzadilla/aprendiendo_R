@@ -1,6 +1,6 @@
-# lenguaje de programación R
+# Aprendiendo R
 
-Repositorio donde colocar los ejercicios que se vayan realizando mediante el lenguaje de **programación R**.
+Repositorio donde colocar y ordenar los ejercicios y tutoriales que se vayan realizando mediante el lenguaje de **programación R**.
 
 ## Enlaces de interés:
 
